@@ -1,7 +1,7 @@
 const BOX = document.getElementById('toChanged');
 const BUTTON = document.getElementById('buttonSec');
 
-BUTTON.addEventListener('click', function(){window.open('maymunPopUp.html');},false);
+BUTTON.addEventListener('click', function(){window.open('https://sancuruel.github.io');},false);
 BOX.addEventListener('click', changeImage, false);
  function changeImage(e){
    e.preventDefault();
