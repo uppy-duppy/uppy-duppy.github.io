@@ -1,7 +1,7 @@
 const BOX = document.getElementById('toChanged');
 const BUTTON = document.getElementById('buttonSec');
 
-BUTTON.addEventListener('click', function(){window.open('https://sancuruel.github.io');},false);
+BUTTON.addEventListener('click', function(){window.open('https://tender-carson-2c482a.netlify.app');},false);
 BOX.addEventListener('click', changeImage, false);
  function changeImage(e){
    e.preventDefault();
